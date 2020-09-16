@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+HAPPINESS counts most during the apocalypse.
 Use the left arrow to go back!
